@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/seleccion"
+        android:title="Tasa de cambio"
+
+        android:icon="@drawable/cash"/>
+    <item
+        android:id="@+id/dolar"
+        android:title="Dolar"
+        />
+    <item
+        android:id="@+id/cordoba"
+        android:title="Cordoba"
+        />
+
+
+</menu>
